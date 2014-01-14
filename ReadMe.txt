@@ -9,4 +9,7 @@
     which would return the heat map as an AWT Image.
 	
 5. Sample Image is under the main folder.
+
+6. Test. 
+ 
  
